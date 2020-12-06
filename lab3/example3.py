@@ -1,5 +1,5 @@
-gpa = float(input())
-numOfLec = int(input())
+gpa = float(input("Enter your gpa :"))
+numOfLec = int(input("Enter your number of lecture :"))
 
 if gpa<2.0:
   if numOfLec < 47:
