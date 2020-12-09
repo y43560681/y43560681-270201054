@@ -13,8 +13,3 @@ if email_check == email4:
   print("True")
 elif email_check != email4:
   print("False")
-
-
-
-
-
